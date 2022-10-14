@@ -1,0 +1,452 @@
+﻿@media only screen and (min-width : 1224px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* typical phone screen resolution */
+@media only screen and (max-width : 667px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 375px) and (max-width : 667px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        overflow: hidden;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 375px) and (max-width : 667px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        overflow: hidden;
+    }
+}
+
+/*iphone xr*/
+/* typical phone screen resolution */
+@media only screen and (max-width : 869px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 414px) and (max-width : 869px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 414px) and (max-width : 869px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+/*iphone 12 pro*/
+@media only screen and (max-width : 844px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 390px) and (max-width : 844px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 390px) and (max-width : 844px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+/*pixel 5*/
+@media only screen and (max-width : 851px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 393px) and (max-width : 851px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 393px) and (max-width : 851px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+/*galaxy s8+*/
+@media only screen and (max-width : 740px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 360px) and (max-width : 740px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 360px) and (max-width : 740px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+/*s20 ultra*/
+@media only screen and (max-width : 915px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 412px) and (max-width : 915px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 412px) and (max-width : 915px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+/*ipad air  */
+@media only screen and (max-width : 1180px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 820px) and (max-width : 1180px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 820px) and (max-width : 1180px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+
+/*ipad mini*/
+@media only screen and (max-width : 1024px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 784px) and (max-width : 1024px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 784px) and (max-width : 1024px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+
+/**/
+@media only screen and (max-width : 1368px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 912px) and (max-width : 1368px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 912px) and (max-width : 1368px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+
+/**/
+@media only screen and (max-width : 720px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 540px) and (max-width : 720px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 540px) and (max-width : 720px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+
+/*galaxy fold*/
+@media only screen and (max-width : 653px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 280px) and (max-width : 653px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 280px) and (max-width : 653px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+
+/*galaxy a51/a71*/
+@media only screen and (max-width : 914px) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* landscape orientation */
+@media only screen and (min-width : 412px) and (max-width : 914px) and (orientation : landscape) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}
+/* portrait orientation */
+@media only screen and (min-width : 412px) and (max-width : 914px) and (orientation : portrait) {
+    #POCForm {
+        margin: 0 auto;
+        border: 2px white solid;
+        border-radius: 4px;
+        padding: 0%;
+        width: 33%;
+        overflow: hidden;
+        width: max-content;
+    }
+}

@@ -1,0 +1,179 @@
+﻿*:focus {
+    outline: none;
+}
+
+body {
+    background: rgb(220,172,186);
+    background: linear-gradient(0deg, rgba(220,172,186,1) 0%, rgba(37,51,112,1) 77%, rgba(10,28,90,1) 100%);
+    background-attachment:fixed;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#header {
+text-align:center;
+color:white;
+}
+
+#lblHeader {
+    color: white;
+}
+
+#POCForm {
+    margin: 0 auto;
+    border: 2px white solid;
+    border-radius: 4px;
+    width: 33%;
+    overflow: hidden;
+    width: max-content;
+    background-color: rgba(0,0,0, 0.3);
+    padding:0.5%;
+}
+
+#Firstname {
+    text-align: center;
+    color: white;
+}
+
+#Lastname {
+    text-align: center;
+    color: white;
+}
+
+#LeaveStart {
+    text-align: center;
+    color: white;
+}
+
+#LeaveEnd {
+    text-align: center;
+    color: white;
+}
+
+#divType {
+    text-align: center;
+}
+
+#ddType {
+    border: solid 1px white;
+    border-radius: 4px;
+    width: fit-content;
+    background-color: none;
+    color: white;
+    background-color: transparent;
+    resize: none;
+}
+
+    #ddType:focus {
+        background-color: white;
+        color: black;
+    }
+
+#lblType {
+    color: white;
+}
+
+#lblReason {
+    color: white;
+}
+
+#divReason {
+    text-align: center;
+}
+
+#txtReason {
+    border: solid 1px white;
+    border-radius: 4px;
+    width: fit-content;
+    background-color: none;
+    color: white;
+    background-color: transparent;
+    resize: none;
+}
+
+    #txtReason:focus {
+        background-color: white;
+        color: black;
+    }
+
+#txtFname {
+    border: solid 1px white;
+    border-radius: 4px;
+    width: fit-content;
+    background-color: none;
+    background-color: transparent;
+    resize: none;
+}
+
+#txtLname {
+    border: solid 1px white;
+    border-radius: 4px;
+    width: fit-content;
+    background-color: none;
+    background-color: transparent;
+    resize: none;
+}
+#CalLStart {
+    text-decoration: none;
+    margin:0 auto;
+}
+
+
+
+#CalLEnd {
+    text-decoration: none;
+    margin: 0 auto;
+}
+
+#divMessage {
+text-align: center;
+}
+
+#divBtns {
+align-content:center;
+text-align:center;
+}
+
+#btnSubmit {
+    background: none;
+    align-content: center;
+    color: white;
+    padding: 4px;
+    border: 2px white solid;
+    border-radius: 4px;
+    height: 34px;
+}
+
+#btnView {
+    background: none;
+    align-content: center;
+    color: white;
+    padding: 4px;
+    border: 2px white solid;
+    border-radius: 4px;
+}
+
+
+#tblForm {
+text-align:center;
+margin:0 auto;
+}
+
+#gdvPOC {
+align-content:center;
+margin:0 auto;
+}
+
+
+#divBack {
+text-align:center;
+}
+
+#btnBack {
+    background: none;
+    align-content: center;
+    color: white;
+    padding: 4px;
+    border: 2px white solid;
+    border-radius: 4px;
+}
+
